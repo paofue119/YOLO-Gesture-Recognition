@@ -18,13 +18,13 @@
 
 | 模型版本 | 适用场景 | mAP@0.5 | 模型大小 | 下载链接 (Releases) |
 | :--- | :--- | :---: | :---: | :--- |
-| **YOLOv12n** | **最佳综合表现 (推荐)** | **0.987** | 5.24 MB | [best_12n.pt](#) |
-| **YOLOv8s** | 算力充足设备的平衡选择 | 0.983 | 21.5 MB | [best_v8s.pt](#) |
-| **YOLOv8n** | 边缘设备极速推理 | 0.980 | 5.96 MB | [best_v8n.pt](#) |
-| **YOLOv8m** | 高精需求，无视显卡压力 | 0.976 | 49.6 MB | [best_v8m.pt](#) |
-| **YOLOv9t** | 极小体积的轻量级尝试 | 0.967 | 4.40 MB | [best_v9t.pt](#) |
-| **YOLOv10n** | 无 NMS 架构的端到端测试 | 0.954 | 5.46 MB | [best_v10n.pt](#) |
-| **YOLOv11n** | 兼顾速度与较新架构优势 | 0.953 | 5.19 MB | [best_11n.pt](#) |
+| **YOLOv12n** | **最佳综合表现 (推荐)** | **0.987** | 5.24 MB | [[best_12n.pt](https://github.com/paofue119/YOLO-Gesture-Recognition/releases/download/v1.0.0/best_12n.pt)]  |
+| **YOLOv8s** | 算力充足设备的平衡选择 | 0.983 | 21.5 MB | [[best_v8s.pt](https://github.com/paofue119/YOLO-Gesture-Recognition/releases/download/v1.0.0/best_v8s.pt)] |
+| **YOLOv8n** | 边缘设备极速推理 | 0.980 | 5.96 MB | [[best_v8n.pt](https://github.com/paofue119/YOLO-Gesture-Recognition/releases/download/v1.0.0/best_v8n.pt)] |
+| **YOLOv8m** | 高精需求，无视显卡压力 | 0.976 | 49.6 MB | [[best_v8m.pt](https://github.com/paofue119/YOLO-Gesture-Recognition/releases/download/v1.0.0/best_v8m.pt)] |
+| **YOLOv9t** | 极小体积的轻量级尝试 | 0.967 | 4.40 MB | [best_v9t.pt](https://github.com/paofue119/YOLO-Gesture-Recognition/releases/download/v1.0.0/best_v9t.pt) |
+| **YOLOv10n** | 无 NMS 架构的端到端测试 | 0.954 | 5.46 MB | [best_v10n.pt](https://github.com/paofue119/YOLO-Gesture-Recognition/releases/download/v1.0.0/best_v10n.pt)|
+| **YOLOv11n** | 兼顾速度与较新架构优势 | 0.953 | 5.19 MB | [best_11n.pt](https://github.com/paofue119/YOLO-Gesture-Recognition/releases/download/v1.0.0/best_11n.pt) |
 
 > 💡 **提示**：以上模型均在相同验证集上测试。其中 **YOLOv12n** 在保持 5.24MB 极小体积的同时，达到了最高的 0.987 mAP，是本项目推荐的首选部署模型。完整数据集下载请访问：[填写你的网盘链接] (提取码: xxxx)
 
