@@ -1,0 +1,11 @@
+path: gesture
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: gesture_one
+  1: gesture_two
+  2: gesture_five
+  3: gesture_ok
+  4: gesture_rock

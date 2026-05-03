@@ -1,0 +1,22 @@
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# YOLO训练日志和模型权重 
+runs/
+weights/*.pt
+!weights/README.md  
+
+# 数据集
+datasets/
+!datasets/sample/   
+
+# 常见的编辑器配置缓存
+.idea/
+.vscode/
+
+# 虚拟环境文件夹
+venv/
+env/
+
